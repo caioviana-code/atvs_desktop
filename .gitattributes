@@ -1,0 +1,4 @@
+Atividade_1/node_modules/electron/dist/electron filter=lfs diff=lfs merge=lfs -text
+node_modules/electron/dist/electron filter=lfs diff=lfs merge=lfs -text
+/home/caio/Documents/TADS2021/6°[[:space:]]Período/Desktop/Atividade_1/node_modules/electron/dist/electron~ filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
